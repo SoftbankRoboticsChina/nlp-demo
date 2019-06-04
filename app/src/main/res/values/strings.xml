@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">nlp</string>
+    <string name="fallback_answer">没有听到你说啥</string>
+    <string name="greeting">您好，很高兴遇到您</string>
+
+    <string name="check_appid_key">您讯飞的appid错误或者为空，请确认您的appid以便讯飞语义理解可以正常工作。</string>
+</resources>
